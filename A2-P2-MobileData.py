@@ -5,8 +5,8 @@
 # Note, it is not a cumulative charge; your program will figure out which single range the usage falls into, 
 # then calculate the cost based on that range’s cost. 
 
-#Student #:     
-#Student Name:  
+#Student #:     499622
+#Student Name:  Jack Leonard 
 
 def main():
     # YOUR CODE STARTS HERE, each line must be indented (one tab)
